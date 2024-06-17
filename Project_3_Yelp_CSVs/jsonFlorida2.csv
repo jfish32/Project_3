@@ -1,0 +1,317 @@
+name,address,zip_code,city,state,latitude,longitude,ratings
+Abbey Road,974 58th St N,33710,Saint Petersburg,FL,27.7815129,-82.7123591,3
+Arby's,9597 4th St N,33702,Saint Petersburg,FL,27.8591073,-82.6381944,3
+Barney's of St. Pete,10411 Gandy Blvd N,33702,Saint Petersburg,FL,27.866619,-82.631202,3
+Black Coffee & Tasty Waffles,521 S Gulfview Blvd,33767,Clearwater,FL,27.96720193,-82.82789281,3
+Boston Market,4001 E Bay Dr,33764,Clearwater,FL,27.91598579,-82.74527304,3
+Burchard Galleries,2528 30th Ave N,33713,Saint Petersburg,FL,27.7988188,-82.6661058,3
+Captain Crab,401 49th St S,33707,Saint Petersburg,FL,27.7671426,-82.7001074,3
+Chili's,25987 US Hwy 19 N,33763,Clearwater,FL,28.00837175,-82.72987033,3
+China 1,2014 34th St N,33713,Saint Petersburg,FL,27.790759,-82.6805128,3
+China Crossings,10476 Roosevelt Blvd N,33716,Saint Petersburg,FL,27.8668095,-82.6454007,3
+China Pearl,3313 Central Ave,33713,Saint Petersburg,FL,27.7715571,-82.678419,3
+China99,1467 S Belcher Rd,33764,Clearwater,FL,27.9433219,-82.74550493,3
+Cho Lon Oriental Market,"5944 34th St N, Ste 18",33714,Saint Petersburg,FL,27.826365,-82.679938,3
+Circle K,3400 5th Ave N,33713,Saint Petersburg,FL,27.777005,-82.679403,3
+Clearwater Country Club,525 N Betty Ln,33755,Clearwater,FL,27.971479,-82.781949,3
+Dairy Queen Grill & Chill,3101 N 66th St,33710,Saint Petersburg,FL,27.80009368,-82.728034,3
+Dunkin',580 Mandalay Ave,33767,Clearwater,FL,27.98524836,-82.82698746,3
+Einstein Bros. Bagels,"5395 E Bay Dr, Ste 104",33764,Clearwater,FL,27.9155301,-82.7305076,3
+Gyros & Seafood Express,1760 Dr Martin Luther King Jr St S,33701,Saint Petersburg,FL,27.752368,-82.64627,3
+La Quinta Inn by Wyndham Clearwater Central,21338 US Hwy 19 North,33765,Clearwater,FL,27.966329,-82.7312029,3
+Lil Net’s Home Style Cooking,1500 16th St S,33705,Saint Petersburg,FL,27.7550813,-82.6545559,3
+Marco's Pizza,810 S Missouri Ave,33756,Clearwater,FL,27.95675,-82.78804,3
+Marshalls,21323 US Hwy 19 N,33765,Clearwater,FL,27.96625203,-82.72825668,3
+McDonald's,1500 S Belcher Rd,33764,Clearwater,FL,27.94177037,-82.74638108,3
+Moe's Southwest Grill,2679 Gulf To Bay Blvd,33759,Clearwater,FL,27.95878808,-82.72678825,3
+Mr. Joe's Off The Beach,5141 Seminole Blvd,33708,Saint Petersburg,FL,27.8191437,-82.7869484,3
+New China,1678 S Missouri Ave,33756,Clearwater,FL,27.9357336,-82.7886316,3
+Olive Garden Italian Restaurant,29461 US Hwy 19 N,33761,Clearwater,FL,28.03999147,-82.73750705,3
+P.F. Chang's,"27001 US Highway 19 N, Ste 1150",33761,Clearwater,FL,28.01615571,-82.7345573,3
+Party City,1960 Tyrone Blvd N,33710,Saint Petersburg,FL,27.78778942,-82.72556142,3
+Philly's Famous Cheese Steaks,4375 E Bay Dr,33764,Clearwater,FL,27.91601,-82.7414677,3
+Poblanos Mexican Grill & Bar,2451 N McMullen Booth Rd,33759,Clearwater,FL,28.01043348,-82.70988188,3
+Reflections,400 Mandalay Ave,33767,Clearwater Beach,FL,27.9788772,-82.8279609,3
+Sake House,"13505 Icot Blvd, Ste 207",33760,Clearwater,FL,27.89484,-82.713773,3
+South Beach Tanning Company,5242 4th St N,33703,Saint Petersburg,FL,27.8198622,-82.6391652,3
+Subway,3753 Ulmerton Rd,33762,Clearwater,FL,27.89451856,-82.6845208,3
+Subway,"2451 Mcmullen Booth Rd, Ste 1",33759,Clearwater,FL,28.0104754,-82.7095503,3
+Summerside Inn,1477 S Ft Harrison Ave,33756,Clearwater,FL,27.943217,-82.799562,3
+Sunshine Nails,"4445 E Bay Dr, Ste 310",33764,Clearwater,FL,27.915499,-82.7410569,3
+USF St. Petersburg Bookstore,"500 3rd St S, FPF 100",33701,Saint Petersburg,FL,27.7653613,-82.6366819,3
+Wilson's Cocktail Lounges,3030 4th St N,33704,Saint Petersburg,FL,27.8000547,-82.6388381,3
+Zein's Pizza Wings and Subs,2091 Highland Ave,33756,Clearwater,FL,27.99685302,-82.77535497,3
+Aloha On the Beach,411 S Gulfview Blvd,33767,Clearwater Beach,FL,27.9708364,-82.8295391,3.5
+Barefoot Beach House,332 S Gulfview Blvd,33767,Clearwater,FL,27.972399,-82.82998,3.5
+Bob Evans,2183 Gulf To Bay Blvd,33765,Clearwater,FL,27.95963164,-82.74656922,3.5
+Bob Heilman's Beachcomber Restaurant,447 Mandalay Ave,33767,Clearwater Beach,FL,27.9801452,-82.8268245,3.5
+Brightwater Suites On Clearwater Beach,342 S Hamden Dr,33767,Clearwater,FL,27.9717644,-82.8280661,3.5
+Burger Monger,2454 McMullen Booth Rd,33759,Clearwater,FL,28.01166425,-82.70794876,3.5
+BurgerIm,"2561 Countryside Blvd, Ste 4",33761,Clearwater,FL,28.01309242,-82.73232364,3.5
+Capogna's Dugout,1653 Gulf To Bay Blvd,33755,Clearwater,FL,27.9595987,-82.7686445,3.5
+Carrabba's Italian Grill,2680 Gulf To Bay Blvd,33759,Clearwater,FL,27.9611367,-82.7266638,3.5
+Cheddar's Scratch Kitchen,2655 Roosevelt Blvd,33760,Clearwater,FL,27.915771,-82.7274858,3.5
+Cheesesteak Company,11270 4th St N,33716,Saint Petersburg,FL,27.874373,-82.6402203,3.5
+Chick-fil-A,4241 4th St N,33703,Saint Petersburg,FL,27.810916,-82.638182,3.5
+China 1,1875 N Highland Ave,33755,Clearwater,FL,27.9879293,-82.7749766,3.5
+China Wok,3433 49th St N,33710,Saint Petersburg,FL,27.803417,-82.699448,3.5
+China Wok,5055 34th St S,33711,Saint Petersburg,FL,27.721666,-82.6807564,3.5
+Clearwater Bagels,1871 Gulf To Bay Blvd,33765,Clearwater,FL,27.9603225,-82.7598496,3.5
+Clearwater Beach Marriott Suites on Sand Key,1201 Gulf Boulevard,33767,Clearwater Beach,FL,27.95336154,-82.82825589,3.5
+Cool Vibes Bar & Grill,5488 58th St N,33709,Saint Petersburg,FL,27.8220898,-82.7125822,3.5
+Courigan's Irish Pub,"1 Beach Dr SE, Ste 41",33701,Saint Petersburg,FL,27.7708192,-82.6335305,3.5
+Crab Shack Restaurant,11400 Gandy Blvd N,33702,Saint Petersburg,FL,27.8697602,-82.6162438,3.5
+Crabby's Bar & Grill,333 S Gulfview Blvd,33767,Clearwater Beach,FL,27.97210338,-82.82927039,3.5
+Cracker Barrel Old Country Store,2151 54th Ave N,33714,Saint Petersburg,FL,27.8217731,-82.6626549,3.5
+Cuban Mexican Restaurant,4016 Ulmerton Rd,33762,Clearwater,FL,27.89318,-82.688496,3.5
+Culver's,2008 Gulf To Bay Blvd,33765,Clearwater,FL,27.96100044,-82.7542038,3.5
+Dairy Inn,1201 Dr Martin Luther King Jr St N,33701,Saint Petersburg,FL,27.784012,-82.6465085,3.5
+Ferg's Sports Bar & Grill,1320 Central Ave,33705,Saint Petersburg,FL,27.770871,-82.652212,3.5
+Fresh Bowl Grill,2657 Ulmerton Rd,33762,Clearwater,FL,27.89456635,-82.66931106,3.5
+Gorditas Don Huicho,2071 Drew St,33765,Clearwater,FL,27.9674825,-82.7516337,3.5
+Ha Long Bay,5944 34th St N,33714,Saint Petersburg,FL,27.82757009,-82.67993913,3.5
+Habibi Lounge,400 34th St N,33713,Saint Petersburg,FL,27.77573262,-82.67968103,3.5
+Honey Baked Ham Company,23310 US Hwy 19 N,33765,Clearwater,FL,27.9849066,-82.7304573,3.5
+Hong Kong City,2198 NE Coachman Rd,33765,Clearwater,FL,27.9724802,-82.74669,3.5
+Hong Kong Restaurant,1077 62nd Ave S,33705,Saint Petersburg,FL,27.7129149,-82.649,3.5
+Hooks Sushi Bar & Thai Food,1210 9th St N,33705,Saint Petersburg,FL,27.7837466,-82.6468773,3.5
+Island Way Grill,20 Island Way,33767,Clearwater,FL,27.9762783,-82.817396,3.5
+Jason's Deli,"25801 US Highway 19 N, Ste 110",33763,Clearwater,FL,28.0064542,-82.7286541,3.5
+Johnny's Italian Restaurant,"2907 State Road 590, Ste 1",33759,Clearwater,FL,27.9822,-82.7167155,3.5
+Kilwins Clearwater Beach,391 Mandalay Ave,33767,Clearwater,FL,27.9782439,-82.8271612,3.5
+Krispy Krab Clearwater ,1423 Betty Ln N,33755,Clearwater,FL,27.91830146,-82.74642268,3.5
+LongHorn Steakhouse,2400 Tyrone Blvd N,33710,Saint Petersburg,FL,27.79332418,-82.73034294,3.5
+Luekens Wine & Spirits,23025 US 19 N,33759,Clearwater,FL,27.98303045,-82.72910459,3.5
+Mainstay Tavern,1160 Gulf Blvd,33767,Clearwater,FL,27.95556916,-82.8287486,3.5
+Marble Slab Creamery,"27001 U S 19 N, Ste 2070",33761,Clearwater,FL,28.017071,-82.734628,3.5
+Mastry's Bait & Tackle,1700 4th St S,33701,Saint Petersburg,FL,27.753527,-82.6383105,3.5
+Nepa Hut Beach Bar,6800 Sunshine Skyway Ln S,33711,Saint Petersburg,FL,27.705824,-82.677677,3.5
+Panera Bread,"2679 Gulf To Bay Blvd, Ste 530",33759,Clearwater,FL,27.95882688,-82.72650867,3.5
+Peltz Shoes,7121 22nd Ave N,33710,Saint Petersburg,FL,27.7924387,-82.7373693,3.5
+Perkins Restaurant & Bakery,2626 Gulf To Bay Blvd,33759,Clearwater,FL,27.960986,-82.72938028,3.5
+Pholicious Countryside Mall,"27001 US Hwy 19 N, Ste 9245",33761,Clearwater,FL,28.017461,-82.732546,3.5
+Pink & White Nails Salon & Spa of Clearwater,2518 N McMullen Booth Rd,33761,Clearwater,FL,28.013192,-82.7092251,3.5
+Red Robin Gourmet Burgers and Brews,"27001 US Hwy 19 N, Ste 1130",33761,Clearwater,FL,28.016693,-82.734672,3.5
+Red Tiki Bar,7361 46th Av N,33709,Saint Petersburg,FL,27.8139075,-82.7404816,3.5
+Ruby Thai Kitchen,"27001 US Hwy 19 N, Ste 2081",33761,Clearwater,FL,28.0379796,-82.72275,3.5
+Russo's New York Pizzeria - Clearwater,2233 Gulf To Bay Blvd,33765,Clearwater,FL,27.9600451,-82.7443439,3.5
+Salem's Fresh Eats,880 34th St N,33713,Saint Petersburg,FL,27.7805877,-82.6798471,3.5
+Samgelo's Pizza,650 Mandalay Ave,33767,Clearwater Beach,FL,27.9880793,-82.8267611,3.5
+Seminole Subs & Gyros,1001 S Missouri Ave,33756,Clearwater,FL,27.9549583,-82.7872498,3.5
+Taco Bell,2990 Gulf To Bay Blvd,33759,Clearwater,FL,27.96090578,-82.71304336,3.5
+Thai Coconut and Sushi,1280 S Missouri Ave,33756,Clearwater,FL,27.951473,-82.7878604,3.5
+The Avenue DTSP,330 1st Ave S,33701,Saint Petersburg,FL,27.770057,-82.637674,3.5
+The Birch & Vine,340 Beach Dr NE,33701,Saint Petersburg,FL,27.77602622,-82.63205207,3.5
+The Brown Boxer Pub and Grille,483 Mandalay Ave,33767,Clearwater Beach,FL,27.98182577,-82.82681445,3.5
+The Brown Boxer Southbeach,741 Bayway Blvd,33767,Clearwater,FL,27.9666824,-82.8231837,3.5
+The Missing Piece - Clearwater,"28200 US Hwy 19 N, Ste C",33761,Clearwater,FL,28.028604,-82.739172,3.5
+The Quick Red Fox,"2140 Drew St, Ste J",33765,Clearwater,FL,27.968387,-82.748937,3.5
+Tony's Pizza,533 Central Ave,33701,Saint Petersburg,FL,27.77133598,-82.64086403,3.5
+Top China,3018 54th Ave S,33712,Saint Petersburg,FL,27.71821461,-82.6734652,3.5
+Travelodge Clearwater,21252 US Hwy19 N,33765,Clearwater,FL,27.965547,-82.731319,3.5
+WingHouse Bar & Grill,2640 Gulf to Bay Blvd,33759,Clearwater,FL,27.9610775,-82.7282234,3.5
+Wok Out Restaurant,"1444 S Belcher Rd, Ste B",33764,Clearwater,FL,27.94369393,-82.74628484,3.5
+Wok-N-Roll of Clearwater,"2519 N McMullen Booth Rd, Ste 206",33761,Clearwater,FL,28.01316,-82.70764,3.5
+Yaya's Flame Broiled Chicken,10378 Roosevelt Blvd N,33716,Saint Petersburg,FL,27.8661999,-82.643888,3.5
+Amy's China One,1537 S Highland Ave,33756,Clearwater,FL,27.9408821,-82.7738753,4
+Another Broken Egg Cafe,2554 N McMullen Booth Rd,33761,Clearwater,FL,28.014054,-82.709827,4
+Aroy Thai and Sushi,5306 Seminole Blvd,33708,Saint Petersburg,FL,27.8204926,-82.7873129,4
+Badfins Food + Brew,215 S Gulfview Blvd,33767,Clearwater,FL,27.97461,-82.8288798,4
+Ban Thai and Sushi Restaurant,"2519 N McMullen Booth Rd, Ste 505",33761,Clearwater,FL,28.01294838,-82.7082768,4
+Banelly Taqueria,901 S Missouri Ave,33756,Clearwater,FL,27.9560812,-82.787425,4
+Basimo Beach Cafe,"1261 Gulf Blvd, Ste 120",33767,Clearwater,FL,27.95199567,-82.829717,4
+Beau & Mo's Italian Eating House,2924 5th Ave N,33713,Saint Petersburg,FL,27.77702191,-82.67333915,4
+Big Frog Custom T-Shirts & More,1874 Gulf to Bay Blvd,33765,Clearwater,FL,27.9610827,-82.7597232,4
+Bula Kafe,2500 5th Ave N,33713,Saint Petersburg,FL,27.7771585,-82.6675529,4
+Cabanas Coastal Grill,655 S Gulfview Blvd,33767,Clearwater Beach,FL,27.9664356,-82.8257302,4
+Cakes by Carolynn A Special Touch,3153 5th Ave N,33713,Saint Petersburg,FL,27.777673,-82.6765854,4
+Cappy's Pizzeria,2900 1st Ave N,33713,Saint Petersburg,FL,27.7716082,-82.672773,4
+Charlie's Sushi & Japanese Restaurant,1200 Cleveland St,33755,Clearwater,FL,27.9658915,-82.7875025,4
+Chick-fil-A,4623 Gulf Blvd,33706,Saint Petersburg,FL,27.72147784,-82.739555,4
+Chile Verde Authentic Mexican Food,2801 22nd Ave N,33713,Saint Petersburg,FL,27.7923333,-82.6717507,4
+China 88,"1969 Sunset Point Rd, Ste 4",33765,Clearwater,FL,27.98958406,-82.7565309,4
+Classic Touch Dry Cleaners,"2551 Drew St, Ste 101",33765,Clearwater,FL,27.9670302,-82.73129991,4
+ConeHeads Ice Cream,421 Gulfview Blvd,33767,Clearwater Beach,FL,27.9702649,-82.8290109,4
+Copper Mug Liquors,1463 S Belcher Rd,33764,Clearwater,FL,27.94342244,-82.74545239,4
+Crispy Cajun,2097 Drew St,33765,Clearwater,FL,27.9676007,-82.7508542,4
+Datz - St. Pete,180 Central Ave,33701,Saint Petersburg,FL,27.77105485,-82.63521524,4
+Doe Doe's Diner,9395 Bay Pines Blvd,33708,Saint Petersburg,FL,27.8142345,-82.7691387,4
+Dollar Tree,"2683 Gulf To Bay Blvd, Ste 102",33759,Clearwater,FL,27.95938526,-82.72664078,4
+El Huarache Azteca,22097 US Hwy 19 N,33765,Clearwater,FL,27.97271214,-82.72871044,4
+El Huarache Azteca Restaurant,2908 Roosevelt Blvd,33760,Clearwater,FL,27.91686,-82.717372,4
+Frenchy’s To Go,26145 US Hwy 19 N,33763,Clearwater,FL,28.0099,-82.73085,4
+Frenchy's Off the Hook,49 Baymont St,33767,Clearwater Beach,FL,27.9819488,-82.8262142,4
+Frenchy's Original Cafe,41 Baymont St,33767,Clearwater Beach,FL,27.98204,-82.826436,4
+Frenchy's Saltwater Cafe,419 Poinsettia Ave,33767,Clearwater Beach,FL,27.978968,-82.826326,4
+Fresh Kitchen,"4447 4th St N, Ste 2",33703,Saint Petersburg,FL,27.8126031,-82.6382577,4
+Get Faded,2862 Gulf To Bay Blvd,33759,Clearwater,FL,27.96097431,-82.71916661,4
+Goodyear Auto Service,4115 E Bay Dr,33764,Clearwater,FL,27.91599399,-82.74470381,4
+Gordon Food Service,1661 Gulf To Bay Blvd,33755,Clearwater,FL,27.9605122,-82.7684277,4
+Granadino's Italian Restaurant,1840 Drew St,33765,Clearwater,FL,27.9683523,-82.7611783,4
+Gratzzi Italian Grille,211 2nd St S,33701,Saint Petersburg,FL,27.7691918,-82.635785,4
+Green Mint Asian Grill,25821 US Hwy 19 N,33763,Clearwater,FL,28.006952,-82.72804,4
+Hilton St. Petersburg Carillon Park,950 Lake Carillon Dr,33716,Saint Petersburg,FL,27.8904141,-82.6658049,4
+Hogan's Beach Shop,"483 Mandalay Ave, Ste 108",33767,Clearwater,FL,27.98148,-82.826765,4
+Ice & Cream Creamery,455 S Gulfview Blvd,33767,Clearwater,FL,27.969582,-82.8292323,4
+Ichiban Japanese Restaurant & Sushi Bar,2050 16th St N,33704,Saint Petersburg,FL,27.790962,-82.6553597,4
+Independent Bar,1049 Central Ave,33705,Saint Petersburg,FL,27.7713258,-82.6494652,4
+Indian Bistro,2779 Gulf To Bay Blvd,33759,Clearwater,FL,27.960264,-82.721451,4
+Italia Mia,1165 62nd Ave N,33702,Saint Petersburg,FL,27.829617,-82.650277,4
+John's Fresh Produce Market,1496 S Belcher Rd,33764,Clearwater,FL,27.9425426,-82.7464087,4
+Karma Juice Bar & Eatery - Saint Petersburg,1113 Central Ave,33705,Saint Petersburg,FL,27.771358,-82.6504963,4
+Kiev Euro Deli,29821 US Hwy 19N,33761,Clearwater,FL,28.0431915,-82.7378133,4
+King's Pizza,325 Coronado Dr,33767,Clearwater,FL,27.9725647,-82.82832336,4
+Krepelicious Food Truck,,33764,clearwater,FL,27.9385015,-82.7401087,4
+Little India,25000 US Hwy 19 N,33761,Clearwater,FL,27.999376,-82.73012,4
+Marina Cantina,25 Causeway Blvd,33767,Clearwater Beach,FL,27.976757,-82.826572,4
+Mellow Mushroom - Clearwater,2630 Gulf To Bay Blvd,33759,Clearwater,FL,27.96115731,-82.7285153,4
+Model Citizen Hobbies,"5208 66th St N, Ste D",33709,Saint Petersburg,FL,27.8193185,-82.7289279,4
+Monkey Bar of Clearwater,1681 Gulf To Bay Blvd,33755,Clearwater,FL,27.9607324,-82.7692863,4
+Mori Sushi,1136 94th Ave N,33702,Saint Petersburg,FL,27.8568449,-82.6495937,4
+Munch's Sundries & Restaurant,3920 6th St S,33705,Saint Petersburg,FL,27.732997,-82.6405157,4
+New China,928 58th St N,33710,Saint Petersburg,FL,27.782096,-82.7138107,4
+O'Keefe's Tavern,1219 S Fort Harrison Ave,33756,Clearwater,FL,27.952873,-82.7997141,4
+Papa's New York Diner,1764 Gulf To Bay Blvd,33755,Clearwater,FL,27.9609269,-82.7637255,4
+Parkshore Grill,"300 Beach Dr NE, Ste 104",33701,Saint Petersburg,FL,27.77515143,-82.63240655,4
+PDQ St. Petersburg,4526 4th St N,33703,Saint Petersburg,FL,27.813624,-82.6391229,4
+Pelican Pointe,445 S Gulfview Blvd,33767,Clearwater,FL,27.9695971,-82.8290074,4
+Pickles Plus,2530 N McMullen Booth Rd,33761,Clearwater,FL,28.01364,-82.710083,4
+PoFolks,2001 34th St N,33713,Saint Petersburg,FL,27.789875,-82.678791,4
+Proino Breakfast & Lunch,1700 S Missouri Ave,33756,Clearwater,FL,27.9347746,-82.7878394,4
+Proof : Cocktail Club,260 1st Ave N,33701,Saint Petersburg,FL,27.771827,-82.636553,4
+Rita's Italian Ice,2510-A N McMullen Booth Rd,33761,Clearwater,FL,28.012301,-82.7090408,4
+Roundabout Pizza,25 Causeway Blvd,33767,Clearwater,FL,27.97678543,-82.82653445,4
+Royal Palms Natural Nail Spa,2601 4th St N,33704,Saint Petersburg,FL,27.7959056,-82.6382462,4
+Rusty's Bistro,1160 Gulf Blvd,33767,Clearwater Beach,FL,27.9555556,-82.8287486,4
+Ryan's Meat Market & Deli,7925 38th Ave N,33710,Saint Petersburg,FL,27.80660961,-82.74819799,4
+Salon Fusion,3100 49th St N,33713,Saint Petersburg,FL,27.80017,-82.700436,4
+Salt Cracker Fish Camp,25 Causeway Blvd,33767,Clearwater,FL,27.97674967,-82.82648932,4
+Scrubs N Stuff,"3993 Tyrone Blvd N, Ste 202",33709,Saint Petersburg,FL,27.8097098,-82.7518531,4
+SHOR American Seafood Grill,301 South Gulfview Blvd,33767,Clearwater,FL,27.9737827,-82.8290238,4
+Speggtacular Clearwater Beach,770 S Gulfview Blvd,33767,Clearwater,FL,27.9664346,-82.8227583,4
+Spring Garden Family Restaurant,1018 62nd Ave N,33702,Saint Petersburg,FL,27.8280732,-82.648302,4
+Stillwaters Tavern,224 Beach Dr NE,33701,Saint Petersburg,FL,27.7741594,-82.6327728,4
+Stone Soup Cafe,4122 16th St N,33703,Saint Petersburg,FL,27.8097878,-82.6552734,4
+Sunset Grill,2328 Sunset Point Rd,33765,Clearwater,FL,27.9901447,-82.7406881,4
+Sunset Grille,2996 Dr Martin Luther King Jr St N,33704,Saint Petersburg,FL,27.7992038,-82.6470149,4
+Thai Spice Restaurant,"2475 McMullen Booth Rd, Ste B",33759,Clearwater,FL,28.011366,-82.71115,4
+Thai Wok,11270 4th St N,33716,Saint Petersburg,FL,27.874373,-82.640223,4
+The Bends,919 1st Ave N,33705,Saint Petersburg,FL,27.772302,-82.6473976,4
+The Green Corner,1261 S Fort Harrison Ave,33756,Clearwater,FL,27.9508856,-82.7995667,4
+The Local Deli & Cafe,"13501 Icot Blvd, Ste 100",33760,Clearwater,FL,27.8949212,-82.7145347,4
+The Nosh Pit,4040 Park St N,33710,Saint Petersburg,FL,27.80895808,-82.7546252,4
+Tijuana Flats,"2849 Gulf To Bay Blvd, Unit C",33759,Clearwater,FL,27.9602938,-82.7193292,4
+Tips And Toes Nail Spa,28901 US Hwy 19 N,33761,Clearwater,FL,28.035449,-82.737615,4
+TNT Restaurant,1107 28th St S,33711,Saint Petersburg,FL,27.7590131,-82.6714868,4
+Toby's Original Little Italy Pizza,3523 49th St N,33710,Saint Petersburg,FL,27.804623,-82.6990597,4
+Top Slice Pizzeria,21 3rd St N,33701,Saint Petersburg,FL,27.771722,-82.63691,4
+Tosti's Spirits & Fine Wines,5125 34th St S,33711,Saint Petersburg,FL,27.72109574,-82.68074779,4
+Urban Creamery,689 Central Ave,33701,Saint Petersburg,FL,27.7714559,-82.6435122,4
+Verrazzanos New York Pizza,1801 Sunset Point Rd,33765,Clearwater,FL,27.9895455,-82.7626925,4
+Violet Nails & Spa,10684 Gandy Blvd N,33702,Saint Petersburg,FL,27.8675212,-82.6227906,4
+Waffle House,2510 Sunset Point Rd,33765,Clearwater,FL,27.99067756,-82.73243808,4
+Waffle House,2525 54th Ave N,33714,Saint Petersburg,FL,27.8214463,-82.6670994,4
+World Market,23674 US Hwy 19N,33765,Clearwater,FL,27.9888329,-82.7322409,4
+Yummy Thai,10466 Roosevelt Blvd N,33716,Saint Petersburg,FL,27.8668583,-82.645064,4
+11 Chicks,199 Dr Mlk Jr St N,33701,Saint Petersburg,FL,27.7732754,-82.6464653,4.5
+321 Books,6901 22nd Ave N,33710,Saint Petersburg,FL,27.79400623,-82.73396149,4.5
+5 de Mayo Bakery,1254 S Highland Ave,33756,Clearwater,FL,27.95116687,-82.77547245,4.5
+A & N Italian Deli,17956 US Hwy 19 N,33764,Clearwater,FL,27.93605751,-82.73096285,4.5
+Aldo’s New York Pizza,"2551 Drew St, Ste 201",33765,Clearwater,FL,27.96693,-82.731795,4.5
+Alésia Restaurant,7204 Central Ave,33707,Saint Petersburg,FL,27.770676,-82.73819,4.5
+Bella's Bakes Cakes and Bagels,7100 Central Ave St,33707,Saint Petersburg,FL,27.77055,-82.736834,4.5
+Benedict's Family Restaurant,768 North Belcher Rd,33765,Clearwater,FL,27.9733545,-82.7464964,4.5
+Casita Taqueria,2991 66th St N,33710,Saint Petersburg,FL,27.79880122,-82.72821478,4.5
+Cassis Bakery,170 Beach Dr NE,33701,Saint Petersburg,FL,27.7733013,-82.633175,4.5
+Chief's Creole Cafe,901 22nd St S,33712,Saint Petersburg,FL,27.7610061,-82.6631098,4.5
+Clear Sky on Cleveland,418 Cleveland St,33755,Clearwater,FL,27.965888,-82.80054506,4.5
+Clearwater Family Restaurant,1844 N Highland Ave,33755,Clearwater,FL,27.988415,-82.7757271,4.5
+Cristino's Coal Oven Pizza,1101 S Fort Harrison Ave,33756,Clearwater,FL,27.9543263,-82.7996168,4.5
+Crystal Bay Hotel,7401 Central Ave,33710,Saint Petersburg,FL,27.77130513,-82.74100699,4.5
+D&E Donuts,1453 S Belcher Rd,33764,Clearwater,FL,27.943626,-82.7453974,4.5
+Daily News Cafe & Restaurant,401 S Belcher Rd,33765,Clearwater,FL,27.9618776,-82.7454353,4.5
+East Bistro - The Mediterranean Eatery,"4100 E Bay Dr, Unit B34",33764,Clearwater,FL,27.9169294,-82.7444492,4.5
+Emily's Downtown Family Restaurant,101 S Garden Ave,33756,Clearwater,FL,27.964556,-82.798458,4.5
+Five Palms Condominium Resort,673 Bay Esplanade,33767,Clearwater Beach,FL,27.9881729,-82.8242781,4.5
+Five Star Pizza,1110 S Myrtle Ave,33756,Clearwater,FL,27.95399955,-82.7961323,4.5
+Florida Subs & Gyros,2017 Gulf To Bay Blvd,33765,Clearwater,FL,27.9600935,-82.7534613,4.5
+Fresca Vida Florida,1757 Clearwater Largo Rd,33756,Clearwater,FL,27.932956,-82.795527,4.5
+Funky Sweets,11024 4th St N,33716,Saint Petersburg,FL,27.8725764,-82.640132,4.5
+Fusion Cigar Lounge,483 Mandalay Ave,33767,Clearwater,FL,27.98148,-82.826765,4.5
+Gaby's Family Restaurant,"4890 122nd Ave N, Ste 1",33762,Clearwater,FL,27.88239803,-82.69979384,4.5
+Grassroots Kava House,957 Central Ave,33705,Saint Petersburg,FL,27.7713495,-82.6480913,4.5
+Hacienda Corralejo Mexican Kitchen,1228 Cleveland St,33755,Clearwater,FL,27.966096,-82.786228,4.5
+Hispania Tapas Bar & Cafe,34 N Ft Harrison Ave,33755,Clearwater,FL,27.9666149,-82.8001141,4.5
+Ikigai Sushi Bowls and Wraps,"4195 54th Ave N, Unit E",33714,Saint Petersburg,FL,27.82150572,-82.68876607,4.5
+Island Massage Therapy,"5901 Sun Blvd, Ste 205",33715,Saint Petersburg,FL,27.7136143,-82.7146769,4.5
+Kalina's Coffee & European Food,6393 Dr Martin Luther King Jr St N,33702,Saint Petersburg,FL,27.8306031,-82.6459418,4.5
+Kara Lynn's Kitchen,421 Cleveland St,33755,Clearwater,FL,27.96545854,-82.80085598,4.5
+Ken Sushi & Asian Bistro,2801 Gulf To Bay Blvd,33759,Clearwater,FL,27.96045865,-82.72139047,4.5
+"La Chiquita, Taqueria Y Panaderia","1907 Drew St, Ste A",33765,Clearwater,FL,27.9676957,-82.758486,4.5
+La Deja Vu Bistro,401 1st Ave N,33701,Saint Petersburg,FL,27.7722913,-82.6386673,4.5
+La Mordida Restaurant Bar & Grill,"14100 US Hwy 19 N, Ste 114",33764,Clearwater,FL,27.899697,-82.728351,4.5
+La Reyna De Michoacan Ice Cream,1949 Drew St,33765,Clearwater,FL,27.9676865,-82.7562841,4.5
+Lorene's Fish & Crab House,929 22nd St S,33712,Saint Petersburg,FL,27.7604831,-82.6631758,4.5
+Mandarin Hide,231 Central Ave,33701,Saint Petersburg,FL,27.7712129,-82.6360337,4.5
+Manos Bakery Cafe,1971 Drew St,33765,Clearwater,FL,27.9676725,-82.7554531,4.5
+Marion's,1301 4th St N,33701,Saint Petersburg,FL,27.7851129,-82.6382452,4.5
+Mid Peninsula Seafood,400 49th St S,33707,Saint Petersburg,FL,27.7670324,-82.6995131,4.5
+MNM BBQ,,33704,Saint Petersburg,FL,27.7929237,-82.6321376,4.5
+Mr Weirdo's American Food,12397 Seminole Blvd,33778,Clearwater,FL,27.8854508,-82.7867446,4.5
+Muddy Water Kava & Tea,6111 10th St N,33703,Saint Petersburg,FL,27.827764,-82.6476299,4.5
+Neighborhood Joe,2609 Dr Mlk Jr St N,33704,Saint Petersburg,FL,27.7959993,-82.6465446,4.5
+Olga's Restaurant,1449 S Belcher Rd,33764,Clearwater,FL,27.95576482,-82.75896573,4.5
+Overflow Brewing Company,770 1st Ave N,33701,Saint Petersburg,FL,27.7718397,-82.6445672,4.5
+Pacific Counter,660 Central Ave,33701,Saint Petersburg,FL,27.770927,-82.642797,4.5
+Paul's Chicago Pizza,11002 4th St N,33716,Saint Petersburg,FL,27.8724075,-82.6395728,4.5
+Pearly's Beach Eats,45 Papaya St,33767,Clearwater,FL,27.97992895,-82.82631661,4.5
+Phoebus Tattoos Studio,10710 Gandy Blvd N,33702,Saint Petersburg,FL,27.867547,-82.622491,4.5
+Pizza Box,923 Central Ave,33705,Saint Petersburg,FL,27.7713564,-82.6473901,4.5
+Planet Tan,"1570 N McMullen Booth Rd, Ste H4",33759,Clearwater,FL,27.981972,-82.711079,4.5
+Plateroti Italian Gourmet Inc,1621 Gulf To Bay Blvd,33755,Clearwater,FL,27.9603395,-82.7698708,4.5
+Residence Inn by Marriott Clearwater Downtown,940 Court St,33756,Clearwater,FL,27.961903,-82.793391,4.5
+Sage Wellness Spa,6490 Central Ave,33707,Saint Petersburg,FL,27.7705106,-82.7261778,4.5
+Salon Blond,136 Island Way,33767,Clearwater,FL,27.977892,-82.8164087,4.5
+Salon South Beach,781 Bayway Blvd,33755,Clearwater,FL,27.9665823,-82.8225734,4.5
+Sammy's Seafood,2875 46th Ave N,33714,Saint Petersburg,FL,27.8141106,-82.6721617,4.5
+Sam's Gyros and Seafood,4745 22nd Ave S,33711,Saint Petersburg,FL,27.7485497,-82.6984378,4.5
+Sandshakers,700 Eldridge St,33755,Clearwater,FL,27.9727795,-82.7970404,4.5
+Schakolad Chocolate Factory,401 Central Ave,33701,Saint Petersburg,FL,27.7714113,-82.6387028,4.5
+Sofia's Greek Grill,1446 Belcher Rd S,33764,Clearwater,FL,27.943739,-82.746418,4.5
+Soma,"27001 US Highway 19 N, Spc 2019, Westfield Countryside",33761,Clearwater,FL,28.0174917,-82.73372507,4.5
+Southern Steer Butcher Clearwater,30214 US Hwy 19 N,33761,Clearwater,FL,28.0473902,-82.7404037,4.5
+St. Pete Fishing Outfitter,3450 34th St N,33713,Saint Petersburg,FL,27.803617,-82.6799444,4.5
+Sushi Sho Rexley,214 2nd St N,33701,Saint Petersburg,FL,27.7739625,-82.6357933,4.5
+Taqueria Viva Mexico,1740 Drew St,33755,Clearwater,FL,27.9682547,-82.7652794,4.5
+Tea Lounge,"14100 US Highway 19N, Unit 106",33764,Clearwater,FL,27.8996944,-82.7283498,4.5
+The Cooler,19 Rockaway St,33767,Clearwater,FL,27.98354,-82.82731439,4.5
+The Salty Crab Bar & Grill - North Beach,462 Mandalay Ave,33767,Clearwater Beach,FL,27.9807339,-82.8273506,4.5
+The Tavern at Bayboro,120 6th Ave S,33701,Saint Petersburg,FL,27.7642182,-82.6342256,4.5
+Tin Can Cafe,307 S Myrtle Ave,33756,Clearwater,FL,27.96242,-82.7956614,4.5
+Trader Joe's,2742 4th St N,33704,Saint Petersburg,FL,27.7974016,-82.6388275,4.5
+Tyrone Restaurant,7815 38th Ave N,33710,Saint Petersburg,FL,27.8066883,-82.7462764,4.5
+Umai Cafe,601 South Fort Harrison Ave,33756,Clearwater,FL,27.9594258,-82.7997266,4.5
+Vincenza's Holistic Spa,5234 Central Ave,33707,Saint Petersburg,FL,27.7706635,-82.7047132,4.5
+Wildflower Cafe,1465 S Fort Harrison Ave,33756,Clearwater,FL,27.9438404,-82.7994923,4.5
+Windward Bar and Grill,282 Windward Passage,33767,Clearwater Beach,FL,27.97760489,-82.81744317,4.5
+Wonder Water Sports Cards & Comics,29113 US Hwy 19 N,33761,Clearwater,FL,28.0365224,-82.7375377,4.5
+Big C's BBQ,1035 9th St S,33705,Saint Petersburg,FL,27.76003723,-82.64675333,5
+Bill's La Habana Cigar Club,"770 Pasadena Ave S, Ste B",33707,Saint Petersburg,FL,27.7628259,-82.7344508,5
+City's Bistro,695 Central Ave,33701,Saint Petersburg,FL,27.7714065,-82.6437021,5
+Elias Deli & Produce Market,3200 34th St N,33713,Saint Petersburg,FL,27.8013117,-82.679839,5
+European Goodies and Delicatessen,116 N Main Ave,33765,Clearwater,FL,27.96715,-82.748889,5
+Homestyle Barbecue,1701 N Fort Harrison,33755,Clearwater,FL,27.9825157,-82.7963561,5
+InnoVision Eye Care & Eye Wear,"2643 Gulf To Bay Blvd, Ste 1520",33759,Clearwater,FL,27.95747421,-82.7294346,5
+K Club Bar & Bistro,2675 Ulmerton Rd,33762,Clearwater,FL,27.89464993,-82.66963252,5
+Mangroves Cafe,"13577 Feather Sound Dr, Ste 180",33762,Clearwater,FL,27.8955257,-82.660791,5
+My Favorite Art Place,1750 N Hercules Ave,33765,Clearwater,FL,27.9842343,-82.7552151,5
+PB & Jelly Deli,,33701,Saint Petersburg,FL,27.7696063,-82.6321376,5
+Plant Love Ice Cream,953 Central Ave,33705,Saint Petersburg,FL,27.7713117,-82.6479817,5
+Salon Sardis,"406 11th Ave N, Ste 3",33701,Saint Petersburg,FL,27.7833365,-82.6389541,5
+Smiley's Deli,3441 Central Ave,33713,Saint Petersburg,FL,27.7712796,-82.680339,5
+Southside Coffee,3922 6th St S,33705,Saint Petersburg,FL,27.7328984,-82.6405685,5
+St Petersbark,2435 9th St N,33704,Saint Petersburg,FL,27.794664,-82.6464241,5
+Sugar Loaf Emporium,6115 Park Blvd N,33701,Saint Petersburg,FL,27.839635,-82.718818,5
+Sweetwood Bakery,1679 Drew St,33755,Clearwater,FL,27.9677492,-82.7672802,5
+The Bungaleaux on Central,2635 Central Ave,33713,Saint Petersburg,FL,27.7712404,-82.6692931,5
+Tory's Cafe,1266 S Highland Ave,33756,Clearwater,FL,27.9506902,-82.7755295,5
